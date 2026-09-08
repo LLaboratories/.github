@@ -23,6 +23,7 @@
 <div align="center">
   <h5>// contact</h5>
   
+  <img alt="Contact" src="../assets/Contact.png" width="495"/>
 </div>
 
 <br/>
